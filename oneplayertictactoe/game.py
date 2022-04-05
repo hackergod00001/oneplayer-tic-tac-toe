@@ -71,7 +71,7 @@ class TicTacToe:
 
     def best(self):
         return self._minimax(True)[1]
-
+# min max algo
     def _minimax(self, player):
         if self.won():
             if player:
