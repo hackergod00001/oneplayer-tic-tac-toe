@@ -5,5 +5,5 @@ This is a Tkinter GUI based One Player TIC TAC TOE GAME in Python
 using 3 algorithms
 
 1. MinMax
-2. 
+2. Brute Force Method
 3. Magic square
